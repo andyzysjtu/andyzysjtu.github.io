@@ -7,3 +7,4 @@
 # Current Services
 1. [RStudio Server](http://47.100.164.11:8787)
 2. [Jupyter Notebook](http://47.100.164.11:8888)
+3. [Raspberry Pi Grafana](http://47.100.164.11:23000)
