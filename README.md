@@ -1,6 +1,6 @@
 # Andyzysjtu's Homepage
 # Current Machines
-2. Andyzysjtu-Aliyun-CentOS: 47.100.164.11
+1. Andyzysjtu-Aliyun-CentOS: 47.100.164.11
 
 # Current Services
 1. [RStudio Server](http://47.100.164.11:8787)
